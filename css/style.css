@@ -230,3 +230,9 @@ header ul li a:hover {
         flex-wrap: wrap;
     } */
 }
+
+@media (max-width:420px) {
+    #contactInfo {
+        font-size: .8rem;
+    }
+}
